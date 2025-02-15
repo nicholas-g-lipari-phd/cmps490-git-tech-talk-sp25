@@ -43,34 +43,42 @@ main {
 
 #group1 {
     background-color: red;
+    align-items: center;
 }
 
 #group2 {
     background-color: darkgreen;
+    align-items: center;
 }
 
 #group3 {
     background-color: blue;
+    align-items: center;
 }
 
 #group4 {
     background-color: orange;
+    align-items: center;
 }
 
 #group5 {
     background-color: chocolate;
+    align-items: center;
 }
 
 #group6 {
     background-color: mediumvioletred;
+    align-items: center;
 }
 
 #group7 {
     background-color: darkmagenta;
+    align-items: center;
 }
 
 #group8 {
     background-color: maroon;
+    align-items: center;
 }
 
 #group9 {
