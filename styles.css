@@ -23,7 +23,7 @@ main {
 
 .team-grid {
     display: grid;
-    grid-template-columns: calc(100vw / 3 - 12px) calc(100vw / 3 - 12px) calc(100vw / 3 - 12px);
+    grid-template-columns: calc(100vw / 3 - 6px) calc(100vw / 3 - 6px) calc(100vw / 3 - 6px);
     grid-template-rows: 30vh 30vh 30vh;
     /*width: 100vw;
     height: 60vh;*/
