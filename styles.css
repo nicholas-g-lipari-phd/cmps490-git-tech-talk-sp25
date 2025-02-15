@@ -1,0 +1,86 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.team-grid {
+    display: grid;
+    grid-template-columns: 50vw 50vw;
+    grid-template-rows: 30vh 30vh;
+    width: 100vw;
+    height: 60vh;
+}
+
+.team {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    font-size: 1.5em;
+    border: 2px solid white;
+}
+
+#group1 {
+    background-color: red;
+}
+
+#group2 {
+    background-color: darkgreen;
+}
+
+#group3 {
+    background-color: blue;
+}
+
+#group4 {
+    background-color: orange;
+}
+
+.about-demo {
+    display: flex;
+    align-items: center;
+    gap: 20px; /* Space between the QR code and the text */
+    padding: 20px;
+}
+
+.workspaces {
+    padding: 0 0 0 0ex;
+}
+
+.qrcode {
+    width: 300px; /* Adjust size as needed */
+    height: 300px;
+    border: 2px solid #333;
+    border-radius: 5px;
+}
+
+ul#contributions {
+    list-style-type: none;
+    padding: 0;
+    margin-left: 120px; /* Pushes the list to the right */
+    /*width: 50%;*/ /* Adjust as needed */
+    background-color: #f9f9f9; /* Optional: to differentiate it visually */
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
