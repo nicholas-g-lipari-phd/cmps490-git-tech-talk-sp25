@@ -1,6 +1,6 @@
 # Tech Talk Demo Repository
 
-Welcome! This repository is designed to demonstrate how to use Git for collaborative development. A live version of this demo can be found at https://nicholas-g-lipari-phd.github.io/tech-talk-fa24/ (expect 30-60 second delay for changes) 
+Welcome! This repository is designed to demonstrate how to use Git for collaborative development. A live version of this demo can be found at https://nicholas-g-lipari-phd.github.io/cmps490-git-tech-talk-sp25 (expect 30-60 second delay for changes) 
 
 Throughout this process, all team members should research and explore the activities listed below. 
 These tasks will be similar (if not simplified) to how you will collaborate on your projects in GitHub.
