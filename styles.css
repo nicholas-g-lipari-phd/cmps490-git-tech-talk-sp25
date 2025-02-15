@@ -23,8 +23,8 @@ main {
 
 .team-grid {
     display: grid;
-    grid-template-columns: calc(50vw - 8px) calc(50vw - 8px);
-    grid-template-rows: 30vh 30vh;
+    grid-template-columns: calc(100vw / 3 - 12px) calc(100vw / 3 - 12px) calc(100vw / 3 - 12px);
+    grid-template-rows: 30vh 30vh 30vh;
     /*width: 100vw;
     height: 60vh;*/
 }
@@ -55,6 +55,26 @@ main {
 
 #group4 {
     background-color: orange;
+}
+
+#group5 {
+    background-color: chocolate;
+}
+
+#group6 {
+    background-color: mediumvioletred;
+}
+
+#group7 {
+    background-color: darkmagenta;
+}
+
+#group8 {
+    background-color: maroon;
+}
+
+#group9 {
+    background-color: seagreen;
 }
 
 .about-demo {
