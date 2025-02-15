@@ -23,10 +23,10 @@ main {
 
 .team-grid {
     display: grid;
-    grid-template-columns: 50vw 50vw;
+    grid-template-columns: calc(50vw - 8px) calc(50vw - 8px);
     grid-template-rows: 30vh 30vh;
-    width: 100vw;
-    height: 60vh;
+    /*width: 100vw;
+    height: 60vh;*/
 }
 
 .team {
@@ -37,6 +37,7 @@ main {
     font-weight: bold;
     text-align: center;
     font-size: 1.5em;
+    box-sizing: border-box;
     border: 2px solid white;
 }
 
@@ -63,8 +64,14 @@ main {
     padding: 20px;
 }
 
+.about-demo .content-box {
+    width: 125%;
+}
+
 .workspaces {
     padding: 0 0 0 0ex;
+    align-self: flex-start;
+
 }
 
 .qrcode {
