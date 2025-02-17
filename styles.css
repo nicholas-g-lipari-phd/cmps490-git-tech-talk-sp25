@@ -40,6 +40,9 @@ main {
     box-sizing: border-box;
     border: 2px solid white;
 }
+.small-text {
+    font-size: 0.8em; /* Adjust the size as needed */
+}
 
 #group1 {
     background-color: red;
