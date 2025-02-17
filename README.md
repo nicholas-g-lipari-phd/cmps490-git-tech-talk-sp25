@@ -10,23 +10,23 @@ In this project, the process will follow different stages as we progress:
 
 1. **Early Steps – Commit Directly to Main**:
    - In the initial stages, changes will be committed directly to the main branch. This will help set up the base project quickly and get everyone familiar with the repository.
-2. **Later Steps – Branch Then Merge**:
+1. **Later Steps – Branch Then Merge**:
    - As the demo advances, all changes should be made on a separate branch. Each new feature or bug fix should have its own branch, created from the main branch.
    - After completing the changes on the branch, it should be merged back into the main branch. This ensures that the main branch remains stable.
-3. **Final Steps – Use Pull Requests (PRs)**:
+1. **Final Steps – Use Pull Requests (PRs)**:
    - In the final demo stages, all changes must be submitted via pull requests. This process will include code reviews, where teammates can review each other’s work before merging.
    - Once a PR is approved, it can be merged into the main branch. This helps maintain code quality and encourages collaborative development.
 
 ## Getting Started
-0. **Select a Collaborator**: Choose one member from each group to be added as a collaborator. That student should email nicholas.lipari@louisiana.edu with their GitHub username.
+1. **Select a Collaborator**: Choose one member from each group to be added as a collaborator. That student should email nicholas.lipari@louisiana.edu with their GitHub username.
 1. **Clone the Repository**: Use Git to clone the repository to your local machine.
-2. **Make Changes**: Modify the `index.html` or `styles.css` files as needed. Ensure you make changes in the appropriate sections.
-3. **Update Your Information**: Add your name and a brief description of your changes to the list in `index.html`.
-4. **Create a Branch Off Main**: In later changes, create a new branch from the main branch. Name it according to the group name or the changes you’re making. You may have multiple branches.
-5. **Commit Your Changes**: Stage and commit your changes with a meaningful commit message.
-7. **Push Your Changes**: Push your commits back to the repository.
-8. **Create a Pull Request (PR)**: In even later changes, open a pull request from your branch to the main branch on GitHub. Describe the changes you've made and request a review.
-9. **Merge Your Branch**: In later changes, (if applicable: once the pull request is approved) merge your branch into the main branch. If there are any conflicts, resolve them before merging.
+1. **Make Changes**: Modify the `index.html` or `styles.css` files as needed. Ensure you make changes in the appropriate sections.
+1. **Update Your Information**: Add your name and a brief description of your changes to the list in `index.html`.
+1. **Create a Branch Off Main**: In later changes, create a new branch from the main branch. Name it according to the group name or the changes you’re making. You may have multiple branches.
+1. **Commit Your Changes**: Stage and commit your changes with a meaningful commit message.
+1. **Push Your Changes**: Push your commits back to the repository.
+1. **Create a Pull Request (PR)**: In even later changes, open a pull request from your branch to the main branch on GitHub. Describe the changes you've made and request a review.
+1. **Merge Your Branch**: In later changes, (if applicable: once the pull request is approved) merge your branch into the main branch. If there are any conflicts, resolve them before merging.
 
 ## Changes to Be Made
 > **Important:** After making each change, *commit and push (sync) your updates to the repository* so we can view the results on the projector.
