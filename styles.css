@@ -70,18 +70,19 @@ main {
 }
 
 #group6 {
-    background-color: mediumvioletred;
+    background-color: rgb(134, 36, 253);
     align-items: center;
 }
 
 #group7 {
-    background-color: darkmagenta;
+    background-color: rgb(44, 102, 58);
     align-items: center;
 }
 
 #group8 {
     background-color: maroon;
     align-items: center;
+    font-size: small;
 }
 
 #group9 {
